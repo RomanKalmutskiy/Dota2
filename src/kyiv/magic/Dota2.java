@@ -13,7 +13,7 @@ public class Dota2 {
 		System.out.println(boots.toString()+" "+hero.toString());
 		
 		//
-		
+		//
 
 	}
 
